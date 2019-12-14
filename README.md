@@ -1,2 +1,0 @@
-# RedAesthetic
-My first website
